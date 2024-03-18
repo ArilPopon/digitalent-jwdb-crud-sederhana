@@ -5,7 +5,7 @@
  */
 
 $databaseHost = 'localhost';
-$databaseName = 'jwdb_crud';
+$databaseName = 'jwd_b_db_crud.sql';
 $databaseUsername = 'root';
 $databasePassword = '';
 
